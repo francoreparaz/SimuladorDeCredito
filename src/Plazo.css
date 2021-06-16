@@ -1,0 +1,35 @@
+.padre{
+    margin-top: 20px;
+}
+.Plazo{
+    display: inline;
+    text-align: start;
+    color: rgb(199, 199, 199);
+    margin-left: 5px;
+    
+}
+.box2{
+    display: inline-block;
+    margin-left: 45%;
+    border: solid 2px rgb(187, 187, 187);
+    color: white;
+    box-shadow: black;
+    width: 100px;
+    
+    
+}
+
+
+.minimo{
+    display: inline;
+    text-align: start;
+    margin-right: 5px;
+    color: rgb(199, 199, 199);
+  }
+  .maximo{
+    display: inline;
+    margin-left: 50%;
+    width: 100px;
+    color: rgb(199, 199, 199);
+  
+  }

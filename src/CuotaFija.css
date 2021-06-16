@@ -1,0 +1,38 @@
+.cuotaBox{
+    display: block;
+    width: 50%;
+    height: 70px;
+    margin-left: 25%;
+
+    margin-top: 50px;
+    border: solid 1px rgb(6, 6, 7);
+    background-color: rgb(18, 27, 65);
+}
+
+.letra{
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 25px;
+    color: white;
+   
+}
+
+.numero{
+    display: inline;
+   justify-content: space-between;
+   color: white;
+}
+.Buttons{
+    display: block;
+    margin-top: 25px;
+}
+.Button1{
+    width: 500px;
+    height: 100px;
+    background-color: rgb(4, 161, 101);
+    color: white;
+}
+.Button2{
+    width: 250px;
+    height: 100px;
+}
